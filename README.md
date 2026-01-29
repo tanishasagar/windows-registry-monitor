@@ -34,18 +34,17 @@ persistence detection scenarios.
 ---
 
 ## Project Structure
-windows-registry-monitor/
-│
-├── create_baseline.py # Creates initial registry baseline
-├── compare_registry.py # Compares current state with baseline
-├── baseline.json # Stored registry baseline
-├── registry_changes.log # Logged registry changes
-│
-├── screenshots/ # Screenshots for report/demo
-├── reports/ # Project report / PPT
-│
-└── README.md
 
+```text
+windows-registry-monitor/
+├── create_baseline.py      # Creates initial registry baseline
+├── compare_registry.py     # Compares current state with baseline
+├── baseline.json           # Stored registry baseline
+├── registry_changes.log    # Logged registry changes
+├── screenshots/            # Screenshots for report/demo
+├── reports/                # Project report / PPT
+└── README.md
+```
 ---
 
 ## How to Run
