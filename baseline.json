@@ -1,0 +1,19 @@
+{
+    "timestamp": "2026-01-29 20:23:39.577223",
+    "registry_entries": {
+        "HKCU_Run": {
+            "MicrosoftEdgeAutoLaunch_AC3B7AF181558E407F159DB8A5D4AA84": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --win-session-start",
+            "OneDrive": "\"C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe\" /background",
+            "testentry": ""
+        },
+        "HKCU_RunOnce": {
+            "TestRunOnce": "C:\\test_once.exe"
+        },
+        "HKLM_Run": {
+            "SecurityHealth": "%windir%\\system32\\SecurityHealthSystray.exe",
+            "RtkAudUService": "\"C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_e80fb7173daab733\\RtkAudUService64.exe\" -background"
+        },
+        "HKLM_RunOnce": {},
+        "HKLM_Defender": {}
+    }
+}

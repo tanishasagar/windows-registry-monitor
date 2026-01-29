@@ -1,0 +1,75 @@
+
+2026-01-18 22:31:10 | NEW | HKCU_Run | testentry | C:\test.exe
+2026-01-18 22:35:42 | MODIFIED | HKLM_Run | SecurityHealth | %windir%\system32\SecurityHealthSystray.exe
+2026-01-18 22:40:05 | DELETED | HKCU_Run | OneDrive |
+2026-01-29 16:25:00 | NEW | HKCU_RunOnce | TestRunOnce | C:\test_once.exe
+2026-01-29 16:33:53 | NEW | HKCU_RunOnce | TestRunOnce | C:\test_once.exe
+2026-01-29 17:32:26 | NEW | HKLM_Defender | DisableRealtimeMonitoring | 1
+2026-01-29 17:32:54 | NEW | HKLM_Defender | DisableRealtimeMonitoring | 1
+2026-01-29 17:32:55 | DELETED | HKLM_Defender | TestDefenderChange | 1
+2026-01-29 17:40:13 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:41:13 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:42:13 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:43:13 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:44:13 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:45:13 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:46:13 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:47:13 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:48:13 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:49:13 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:50:13 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:51:13 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:52:13 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:53:14 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:54:14 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:55:14 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:56:14 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:57:14 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:58:14 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 17:59:14 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:00:14 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:01:14 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:02:14 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:03:14 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:04:14 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:05:14 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:06:14 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:07:14 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:08:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:09:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:10:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:11:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:12:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:13:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:14:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:15:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:16:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:17:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:18:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:19:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:20:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:21:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:22:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:23:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:24:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:25:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:26:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:27:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:28:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:29:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:30:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:31:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:32:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:33:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:34:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:35:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:36:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:37:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:38:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:39:15 | DELETED | HKLM_Defender | TestDefenderChange | 
+2026-01-29 18:40:35 | NEW | HKLM_Defender | tester | 1
+2026-01-29 20:31:58 | DELETED | HKCU_RunOnce | TestRunOnce | 
+2026-01-29 20:35:22 | DELETED | HKCU_RunOnce | TestRunOnce | 
+2026-01-29 20:35:22 | NEW | HKLM_Defender | DisableRealtimeMonitoring | 1
+2026-01-29 20:37:36 | DELETED | HKCU_RunOnce | TestRunOnce | 
+2026-01-29 20:37:36 | NEW | HKLM_Defender | DisableRealtimeMonitoring | 1
